@@ -1,5 +1,8 @@
 # ConvoyControl [COMING SOON]
 
+<!-- ![alt text](logo.png =100x50) -->
+<img src="logo.png" width="300" height="300" />
+
 **ConvoyControl** is a real-time fleet management system designed for autonomous trucking companies. It simulates telemetry data ingestion, intelligent job dispatching, and real-time monitoring — all deployed and scaled using Kubernetes.
 
 ## Tech Stack
